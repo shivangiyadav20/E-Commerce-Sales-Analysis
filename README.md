@@ -20,7 +20,7 @@ This project analyzes e-commerce sales data to uncover insights related to sales
 ## Dashboard Pages
 
 ### 1. Executive Dashboard
-<img width="861" height="482" alt="Screenshot 2026-06-21 230215" src="https://github.com/user-attachments/assets/315011fc-3dc8-4ced-8a50-6d2bda3fb753" />
+<img width="857" height="485" alt="Screenshot 2026-06-21 230005" src="https://github.com/user-attachments/assets/10c5eba3-9449-4efd-9e14-b082c205e627" />
 
 * Overall Sales Performance
 * Profit Analysis
@@ -30,7 +30,7 @@ This project analyzes e-commerce sales data to uncover insights related to sales
 
 ### 2. Product & Customer Analysis
 
-<img width="857" height="485" alt="Screenshot 2026-06-21 230005" src="https://github.com/user-attachments/assets/10c5eba3-9449-4efd-9e14-b082c205e627" />
+<img width="861" height="482" alt="Screenshot 2026-06-21 230215" src="https://github.com/user-attachments/assets/315011fc-3dc8-4ced-8a50-6d2bda3fb753" />
 
 * Top Performing Products
 * Top Customers by Sales
